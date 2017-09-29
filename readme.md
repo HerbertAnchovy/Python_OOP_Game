@@ -5,5 +5,5 @@
  
 This project consists of the following classes:
 * a Room class to make interconnected rooms;
-* a Character class (from which Enemy and Friend subclasses are derived;
+* a Character class, from which Enemy and Friend subclasses are derived;
 * an Item class allowing items to be assigned to a room and used for combat.
