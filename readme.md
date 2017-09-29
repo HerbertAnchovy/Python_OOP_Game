@@ -4,3 +4,6 @@ This project consists of the following classes:
 * a Room class to make interconnected rooms;
 * a Character class, from which Enemy and Friend subclasses are derived;
 * an Item class allowing items to be assigned to a room and used for combat.
+
+In this game share, it is assumed that the user will create their own main.py
+using the existing classes contained in Python_OOP_Game.
