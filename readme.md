@@ -1,5 +1,4 @@
-### Simple text-based adventure game project created as part of the 'Object-oriented Programming in Python' course from the Raspberry Pi Foundation. This free course is available online from FutureLearn at:
-https://www.futurelearn.com/courses/object-oriented-principles
+### Simple text-based adventure game project created as part of the 'Object-oriented Programming in Python' course from the Raspberry Pi Foundation. This free course is available online from FutureLearn at: https://www.futurelearn.com/courses/object-oriented-principles
 
 This project consists of the following classes:
 * a Room class to make interconnected rooms;
